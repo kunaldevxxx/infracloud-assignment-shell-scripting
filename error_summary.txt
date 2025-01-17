@@ -1,0 +1,5 @@
+2025-10-01 12:03:00 ERROR 403 Forbidden: 1 occurrences
+2025-10-01 12:02:00 ERROR 404 Not Found: 1 occurrences
+2025-10-01 12:04:00 ERROR 404 Not Found: 1 occurrences
+2025-10-01 12:01:00 ERROR 500 Internal Server Error: 1 occurrences
+2025-10-01 12:00:00 ERROR 404 Not Found: 1 occurrences
