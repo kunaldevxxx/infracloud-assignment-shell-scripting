@@ -1,5 +1,3 @@
-# infracloud-assignment-shell-scripting/README.md
-
 # Infracloud Shell Scripting Assignments
 
 This project contains a collection of shell scripting assignments organized into three categories: Basics, Intermediate, and Advanced. Each category includes scripts that perform specific tasks, along with test scripts to ensure functionality.
@@ -28,15 +26,7 @@ infracloud-assignment-shell-scripting
 │   ├── disk_space_monitor.log
 │   └── tests
 │       └── test_intermediate.sh
-├── one.log
-├── two.log
-├── three.log
-├── four.log
-├── input.txt
-├── output.txt
-├── sample_log.txt
-├── error_summary.txt
-├── Permission_Checker.sh
+
 └── README.md
 ```
 
