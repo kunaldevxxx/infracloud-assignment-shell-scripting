@@ -15,7 +15,7 @@ check_cpu() {
     fi
 }
 
-check_memory() {i
+check_memory() {
     MEM_USAGE=$(free | grep Mem | awk '{print $3/$2 * 100.0}')
     echo "Memory Usage: $MEM_USAGE%"
     if (( $(echo "$MEM_USAGE > $MEM_THRESHOLD" | bc -l) )); then

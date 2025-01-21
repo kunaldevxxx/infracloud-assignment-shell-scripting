@@ -2,7 +2,6 @@
 
 DIRECTORY="/mnt/e/infracloud-assignment-shell-scripting"
 
-
 check_port_usage() {
     local PORT=$1
     local KILL_PROCESS=$2

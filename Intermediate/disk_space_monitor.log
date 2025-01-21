@@ -1,1 +1,9 @@
-Warning: Partition /dev/loop0 is at 100% usage
+Log file created at: /home/kunal-khare/Assignments/infracloud-assignment-shell-scripting/Intermediate/disk_space_monitor.log
+Checking partition: /run, usage: 1%
+Checking partition: /, usage: 4%
+Checking partition: /dev/shm, usage: 1%
+Checking partition: /run/lock, usage: 1%
+Checking partition: /sys/firmware/efi/efivars, usage: 48%
+Checking partition: /boot, usage: 11%
+Checking partition: /boot/efi, usage: 1%
+Checking partition: /run/user/1000, usage: 1%
